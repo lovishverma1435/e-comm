@@ -1,7 +1,7 @@
 import React, { useEffect, useState } from 'react'
 import arrowdown from "../../../public/svg/arrowdown.svg"
 import profile from "../../../public/svg/profile.svg"
-import cart from "../../../public/svg/cart.svg"
+// import cart from "../../../public/svg/cart.svg"
 import search from "../../../public/svg/search.svg"
 import icon from "../../../public/svg/icon.svg"
 import Headerjson from "../../json/Header.json"
@@ -12,6 +12,7 @@ import Popup from './Popup'
 import { useCart } from '../cart/Cartcontext'
 import { useDispatch, useSelector } from 'react-redux'
 import { decrement, increment } from '../../redux/Slice/CounterSlice'
+import { CartIcon } from '../../icons/HeaderIcon'
 
 const Dropdown = ({ name, items, activeDropdown, setActiveDropdown }) => {
   const down = activeDropdown === name;
@@ -84,7 +85,7 @@ const Header = () => {
               </div>
               <div className="w-[75px] p-[16px_25px_19px_26px]  relative">
                 <Link to={"/cart"}>
-                  <img src={cart} className='' alt="cart" />
+                  <CartIcon />
                 </Link>
                   <span className='bg-primary-red top-[5px] border-white border-[2px] right-[15px]  absolute flex justify-center items-center text-white font-poppins font-bold text-[10px] tracking-[0.5px] w-[22px] h-[22px]  rounded-full' >{}{length}</span>
               </div>
