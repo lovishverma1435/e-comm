@@ -1,0 +1,62 @@
+
+@import "tailwindcss";
+@theme {
+  
+  --font-poppins:  "Poppins", sans-serif; 
+  --font-Nunito:   "Nunito", sans-serif; 
+  --font-Raleway: "Raleway", sans-serif; 
+  --font-proxima:   "proxima-nova", sans-serif;
+  --color-primary: #262626; 
+  --color-primary-dark: #22262a; 
+  --color-skyblue: #33a0ff; 
+  --color-natural-blue: #223263; 
+  --color-natural-gray: #9098b1; 
+  --color-primary-red: #fb7181; 
+  --color-primary-blue: #40bfff; 
+  --color-secondry-red: #ff4858; 
+  --color-lightgray-white: #c1c8ce; 
+  --color-lightgray: #FAFAFB; 
+  --color-lightwhite: #f6f6f6; 
+  --color-lightskyblue: #BCDDFE; 
+  --color-sidegray: #F6F7F8; 
+  --color-roundedgray:#F1F3F4 ; 
+  --color-lightskyblue:#ebf5ff ; 
+  --color-lightborder:#E5E8EA ; 
+  --color-buttongray:#DFDEDE ; 
+}
+@layer utilities{
+  .container{
+    @apply max-w-[1294px] w-full mx-auto px-5
+  }
+}
+.active{
+  color: #40bfff;
+}
+
+#app {
+  height: 100%;
+}
+
+
+
+.swiper {
+  width: 100%;
+  height: 100%;
+}
+
+.swiper-slide {
+  text-align: center;
+  font-size: 18px;
+  background: #fff;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+  display: block;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+

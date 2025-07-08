@@ -1,0 +1,58 @@
+{
+    "path": [
+        {
+            "title": "HOME",
+            "path": "/"
+        },
+        {
+            "title": "BAGS",
+            "path": "/Bags"
+        },
+        {
+            "title": "SNEAKERS",
+            "path": "/Sneakers"
+        },
+        {
+            "title": "BELT",
+            "path": "/Belt"
+        },
+        {
+            "title": "CONTACT",
+            "path": "/Contect"
+        }
+    ],
+    "datacatogry": [
+        {
+            "title": "Coporate Shoes "
+        },
+        {
+            "title": "Sneakers "
+        },
+        {
+            "title": "Sandals "
+        },
+        {
+            "title": "Sport Shoe "
+        },
+        {
+            "title": "Trainers "
+        }
+    ],
+    "datacatogryhotdeal": [
+        {
+            "title": "HOT DEAL"
+        },
+        {
+            "title": "Sunglasses"
+        },
+        {
+            "title": "Belts"
+        },
+        {
+            "title": "Handbags"
+        },
+        {
+            "title": "   "
+        }
+    ]
+}

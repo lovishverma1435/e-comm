@@ -1,0 +1,88 @@
+{
+    "images": [
+        {
+            "img": "Products_1747627235655.png"
+        },
+        {
+            "img": "Products_1747627268646.png"
+        },
+        {
+            "img": "ashish1749104121930.png"
+        },
+        {
+            "img": "Products_1747627259084.png"
+        }
+    ],
+    "bestsellerimg": [
+        {
+            "img": "Products_1747627218304.png"
+        },
+        {
+            "img": "Products_1747627218304.png"
+        }
+    ],
+    "selectedColor": [
+        {
+            "color": "#006CFF"
+        },
+        {
+            "color": "#FC3E39"
+        },
+        {
+            "color": "#171717"
+        },
+        {
+            "color": "#FFF600"
+        }
+    ],
+    "paragraph": [
+        {
+            "title": "Product Infomation"
+        },
+        {
+            "title": "Reviews"
+        },
+        {
+            "title": "Another tab"
+        }
+    ],
+    "productInfomation": [
+        {
+            "title": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites."
+        },
+        {
+            "title": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites."
+        },
+        {
+            "title": "air max are always very comfortable fit, clean and just perfect in every way. just the box was too small and scrunched the sneakers up a little bit, not sure if the box was always this small but the 90s are and will always be one of my favorites."
+        }
+    ],
+    "avalible": [
+        {
+            "title": "Availability:"
+        },
+        {
+            "title": "Category:"
+        },
+        {
+            "title": "Free shipping"
+        }
+    ],
+    "optionavalible": [
+        {
+            "title": "In stock"
+        },
+        {
+            "title": "Accessories"
+        }
+    ],
+    "id": 1,
+    "name": "Nike Airmax 270 React",
+    "raiting": "ashish1749011885393.svg",
+    "rewiews": "0",
+    "price": "$534,33",
+    "originalPrice": "$299,43",
+    "discountPercent": "24% Off",
+    "createdAt": "2025-06-12T05:50:32.000Z",
+    "updatedAt": "2025-06-12T05:50:32.000Z"
+}

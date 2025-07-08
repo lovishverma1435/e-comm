@@ -1,0 +1,21 @@
+.mySwiper .swiper-pagination-bullet{
+    width: 31.88px !important;
+    height: 3.19px !important;
+    background: #91ceec !important;
+    border-radius: 10px;
+}
+
+.mySwiper .swiper-pagination-bullet-active{
+    width: 31.88px !important;
+    height: 3.19px !important;
+  background-color: #33A0FF !important;
+  border-radius: 10px;
+
+  }
+  .mySwiper .swiper-pagination-bullets{
+    
+    bottom: 1.5px;
+  display: flex ;
+  align-items: center ;
+  justify-content: center;
+  }

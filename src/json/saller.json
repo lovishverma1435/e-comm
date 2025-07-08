@@ -1,0 +1,154 @@
+{
+    "saller": [
+        {
+           
+            "image": "../../public/images/firstProduct.png",
+            "category": "Bags",
+            "deal":"HOT"
+          },
+          {
+          
+            "image": "../../public/images/brownpurseProduct.png",
+            "category": "Sneakers"
+          },
+          {
+           
+            "image": "../../public/images/otherProduct.png",
+            "category": "Belt"
+          },
+          {
+            
+            "image": "../../public/images/blueshoueProduct.png",
+            "category": "Sunglasses"
+          },
+          {
+          
+            "image": "../../public/images/shouebottom.png"
+          },
+          {
+          
+            "image": "../../public/images/shoueright.png"
+          },
+          {
+          
+            "image": "../../public/images/shoueback.png"
+          },
+          {
+          
+            "image": "../../public/images/blueshoueProduct.png"
+          }
+    ],
+    
+      "hotdeal": [
+          {
+             
+              "image": "../../public/images/firstProduct.png",  
+              "deal":"HOT"
+            },
+            {
+            
+              "image": "../../public/images/brownpurseProduct.png",
+              "deal":"HOT"
+
+            },
+            {
+             
+              "image": "../../public/images/otherProduct.png",
+              "deal":"HOT"
+
+            },
+            {
+              
+              "image": "../../public/images/blueshoueProduct.png",
+              "deal":"HOT"
+             
+            },
+            {
+            
+              "image": "../../public/images/shouebottom.png",
+              "deal":"HOT"
+
+            },
+            {
+            
+              "image": "../../public/images/shoueright.png",
+              "deal":"HOT"
+
+            },
+            {
+            
+              "image": "../../public/images/shoueback.png",
+              "deal":"HOT"
+
+            },
+            {
+            
+              "image": "../../public/images/blueshoueProduct.png",
+              "deal":"HOT"
+
+            },
+            {
+             
+              "image": "../../public/images/firstProduct.png",
+              "deal":"HOT"
+            }
+      ],
+      "hotdeal1": [
+          {
+             
+              "image": "../../public/images/firstProduct.png",  
+              "deal":"HOT"
+            },
+            {
+            
+              "image": "../../public/images/brownpurseProduct.png",
+              "deal":"HOT"
+
+            },
+            {
+             
+              "image": "../../public/images/otherProduct.png",
+              "deal":"HOT"
+
+            },
+            {
+              
+              "image": "../../public/images/blueshoueProduct.png",
+              "deal":"HOT"
+             
+            },
+            {
+            
+              "image": "../../public/images/shouebottom.png",
+              "deal":"HOT"
+
+            },
+            {
+            
+              "image": "../../public/images/shoueright.png",
+              "deal":"HOT"
+
+            }
+      ],
+      "data3":[
+       
+        {
+            "image":"../../public/images/firstProduct.png",
+            "deal":"HOT"
+        },
+        {
+            "image":"../../public/images/brownpurseProduct.png",
+            "deal":"HOT"  
+        },
+        {
+            "image":"../../public/images/shoueback.png",
+            "deal":"HOT"
+        },
+        {
+            "image":"../../public/images/shouebottom.png",
+            "deal":"HOT"      
+        }
+
+      ]
+  
+}

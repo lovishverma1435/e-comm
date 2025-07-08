@@ -1,0 +1,40 @@
+{
+    
+    "data":[
+    {
+      "img": "../../../public/images/cartredshoue.png"
+    },
+    {
+      "img": "../../../public/images/cartblueshoue.png"
+    }
+  ],
+    "titledata":[
+        {
+               "title":"Subtotal",
+               "value":499
+        },
+        {
+            "title":"Shipping fee",
+            "data":20
+     },
+     {
+        "title":"Coupon",
+        "value":"No"
+ }
+    ],
+    "bankdetal":[
+        {
+            "img":"../../../public/svg/CreditCard.svg",
+            "title":"Credit Card Or Debit"
+        },
+        {
+            "img":"../../../public/svg/Paypalblue.svg",
+            "title":"Paypal"
+        },
+        {
+            "img":"../../../public/svg/Bank.svg",
+            "title":"Bank Transfer"
+        }
+    ]
+
+}

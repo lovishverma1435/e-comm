@@ -1,0 +1,61 @@
+{
+    "title1": [
+        {
+            "titledata": "Availability:"
+        },
+        {
+            "titledata": "Category:"
+        },
+        {
+            "titledata": "Free shipping"
+        }
+    ],
+    "title2": [
+        {
+            "titledata": "In stock"
+        },
+        {
+            "titledata": "Accessories"
+        }
+    ],
+        "color":[
+        {
+            "color":"#006CFF"
+        },
+        {
+            "color":"#FC3E39"
+        },
+        {
+            "color":"#171717"
+        },
+        {
+            "color":"#FFF600"
+        }
+      
+    ],
+    "saller": [
+        {
+           
+            "image": "../../public/images/firstProduct.png",
+            "category": "   ",
+            "deal":"HOT"
+          },
+          {
+          
+            "image": "../../public/images/brownpurseProduct.png",
+            "category": "Sneakers"
+          },
+          {
+           
+            "image": "../../public/images/otherProduct.png",
+            "category": "Belt"
+          },
+          {
+            
+            "image": "../../public/images/blueshoueProduct.png",
+            "category": "Sunglasses"
+          }
+          
+    ]
+    
+}

@@ -1,0 +1,35 @@
+{
+    "data":[
+        {
+            "img":"../../../public/svg/icon.svg",
+            
+            "heading":"E-Comm",
+            "tittle":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever.Since the 1500s, when an unknown printer."
+        },
+        {
+            "data":"Follow Us",
+          
+            "tittle":"Since the 1500s, when an unknown printer took a galley of type and scrambled.",
+            "facebook":"../../../public/svg/facebook.svg",
+            "twitter":"../../../public/svg/twitter.svg"
+        },
+        {
+            "data":"Contact Us"
+           
+        }
+    ],
+    "information":[
+        {
+            "heading":"Infomation"
+        },
+        {
+            "heading":"Service"
+        },
+        {
+            "heading":"My Account"
+        },
+        {
+            "heading":"Our Offers"
+        }
+    ]
+}
